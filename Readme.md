@@ -1,6 +1,45 @@
-This repo serves as source code for [this article](https://medium.com/@binhchung48/create-a-contact-form-with-nodemailer-react-js-and-express-js-7757d41e2448)
+# React Portfolio
 
-Make sure to install dependencies in the front-end and back-end directory after cloning/downloading 
+## Description
+A web application created to serve as a portfolio for my coding work.
+
+## Getting Started
+- To view the live site posted via heroku: 
+    - TBD
+
+## Technology used
+- JavaScript Libraries and packages
+    - Body-Parser NPM Package  
+    - Bootstrap Npm Package
+    - dotenv
+    - Express NPM Package
+    - if-env
+    - jQuery
+    - Node.js
+    - nodemon
+    - React
+    - react-dom
+    - reactstrap
+    - Yarn
+- CSS
+    - Bootstrap
+
+### Prerequisites
 ```
-npm i 
-``` 
+- Node.js - Download the latest version of Node https://nodejs.org/en/
+```
+
+## Built With
+
+* Visual Studio Code
+* Terminal/Git Bash
+* GitKraken
+* Node
+
+## Authors
+
+* **Kevin Glasow** - [Kevin Glasow](https://github.com/kevinglasow)
+
+## Special thanks to
+
+* **Bihn Chunb** - [Binh Chung](https://medium.com/@binhchung48) for her amazing article on Nodemailer
