@@ -42,4 +42,4 @@ A web application created to serve as a portfolio for my coding work.
 
 ## Special thanks to
 
-* **Bihn Chunb** - [Binh Chung](https://medium.com/@binhchung48) for her amazing article on Nodemailer
+* **Bihn Chung** - [Binh Chung](https://medium.com/@binhchung48) for her amazing article on Nodemailer
